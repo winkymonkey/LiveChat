@@ -1,0 +1,4 @@
+com/example/websocket/MessageEncoder.class
+com/example/websocket/ChatEndpoint.class
+com/example/websocket/MessageDecoder.class
+com/example/model/MyMessage.class
