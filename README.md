@@ -1,5 +1,5 @@
 ## Hit the below URL to start a participant 
-http://localhost:8080/WebChat/
+http://localhost:8080/LiveChat/
 
 
 ## Supported Message formats
