@@ -4,10 +4,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
-	<artifactId>WebChat</artifactId>
+	<artifactId>LiveChat</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WebChat Maven Webapp</name>
+	<name>LiveChat</name>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -34,6 +34,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>WebChat</finalName>
+		<finalName>LiveChat</finalName>
 	</build>
 </project>
