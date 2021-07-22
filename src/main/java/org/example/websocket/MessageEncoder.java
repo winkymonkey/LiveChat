@@ -1,10 +1,11 @@
-package com.example.websocket;
+package org.example.websocket;
 
 import javax.websocket.EncodeException;
 import javax.websocket.Encoder;
 import javax.websocket.EndpointConfig;
 
-import com.example.model.MyMessage;
+import org.example.model.MyMessage;
+
 import com.google.gson.Gson;
 
 

@@ -1,4 +1,4 @@
-package com.example.websocket;
+package org.example.websocket;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -14,7 +14,7 @@ import javax.websocket.Session;
 import javax.websocket.server.PathParam;
 import javax.websocket.server.ServerEndpoint;
 
-import com.example.model.MyMessage;
+import org.example.model.MyMessage;
 
 
 /**
